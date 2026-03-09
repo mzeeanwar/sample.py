@@ -1,0 +1,15 @@
+---
+edit-config:
+  a-boolean: true
+  default-operation: merge
+  more-numbers:
+  - 225.0
+  - -1.0735
+  some-integers:
+  - 2
+  - 3
+  - 5
+  - 7
+  - 9
+  test-operation: set
+...
