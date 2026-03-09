@@ -1,0 +1,7 @@
+my_integer: 2
+my_float: 2.1
+my_exponent: 2e+5
+'my_complex:key' : "my quoted string value\n"
+0.2 : "can you believe that's a key?"
+my_boolean: true
+my_null: null # might be interpreted as empty string, otherwise
