@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Instance list -->
+<vms>
+  <vm>
+    <vmid>0101af9811012</vmid>
+    <type>t1.nano</type>
+  </vm>
+  <vm>
+    <vmid>0102bg8908023</vmid>
+    <type>t1.micro</type>
+  </vm>
+</vms>
