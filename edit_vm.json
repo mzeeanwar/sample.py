@@ -1,0 +1,10 @@
+{
+  "edit-config":
+  {
+    "default-operation": "merge",
+    "test-operation": "set",
+    "some-integers": [2,3,5,7,9],
+    "a-boolean": true,
+    "more-numbers": [2.25E+2,-1.0735],
+  }
+}
